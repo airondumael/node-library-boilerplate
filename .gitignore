@@ -1,6 +1,7 @@
 # Project specific
 coverage
 lib
+.coveralls.yml
 
 # Ignore the things below if you don't know what you are doing.
 ################################################################################
