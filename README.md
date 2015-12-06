@@ -45,6 +45,6 @@ Boilerplate for creating nodejs libraries.
 I put .coveralls.yml in .gitignore as per advice on their site. If you want to update coverage after travis-ci run your tests you need to add "COVERALLS_REPO_TOKEN" environment on your travis-ci.
 
 1. Go to https://coveralls.io and get your repo_token.
-2. Go to https://travis-ci.org/<githubusername>/<projectname>/settings.
+2. Go to https://travis-ci.org/GUTHUBUSERNAME/PROJECTNAME/settings.
 3. Add Environment Variables. 
 4. Push another commit for it to update.
