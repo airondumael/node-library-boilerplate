@@ -16,5 +16,10 @@ describe('lib', () => {
         lib.method_three().should.be.equal('method_three');
         done();
     });
+
+    it('method_four should return "method_four"', (done) => {
+        lib.method_four().should.be.equal('method_four');
+        done();
+    });
 });
 

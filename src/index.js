@@ -10,3 +10,7 @@ export function method_three() {
     return 'method_three';
 }
 
+export function method_four() {
+    return 'method_four';
+}
+
